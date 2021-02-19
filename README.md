@@ -1,4 +1,6 @@
-Сформировал этот документ, так как попросили показать свои работы. Решил собрать все в одном месте. В планах сделать одностраничный сайт о своих работах, пока руки не дошли. Извините что приходится читать все это читать тут.
+## Что это?
+
+Сформировал этот документ, так как попросили показать свои работы. Решил собрать все в одном месте. В планах сделать одностраничный сайт о своих работах, пока руки не дошли. Извините что приходится читать все это тут.
  
 Дата: 19.02.2021 г
 
@@ -6,20 +8,23 @@
 
 [Github](https://github.com/exynil/)
 
-### Мои работы за все время изучения программирования
+## Мои работы за все время изучения программирования
 
-[Classic Snake AI](https://github.com/exynil/classic-snake-ai)
+### Classic Snake AI
 
 Язык: `Python`
 
 Моя последняя работа, от которой я получил массу удовольствий.
-В этом небольшом проекте я начил змейку самостоятельно находить яблоки. Рекод 67.
+В этом небольшом проекте я научил змейку самостоятельно находить яблоки. Рекод 67.
+
+[Работу можно посмотреть тут](https://github.com/exynil/classic-snake-ai)
 
 <img src="https://github.com/exynil/about/blob/master/screenshots/classic-snake-ai/1.jpg">
 <img src="https://github.com/exynil/about/blob/master/screenshots/classic-snake-ai/2.jpg">
 
+---
 
-Translit - репозиторий приватный
+### Translit - репозиторий приватный
 
 Разработал программу для преподавателей.
 Позволяет транслитерировать документы, эл. таблицы, презентации и многие другие форматы с киррилицы на латиницу.
@@ -29,25 +34,9 @@ Translit - репозиторий приватный
 <img src="https://github.com/exynil/about/blob/master/screenshots/translit/3.jpg">
 <img src="https://github.com/exynil/about/blob/master/screenshots/translit/4.jpg">
 
-Collector - репозиторий приватный
+---
 
-Разработал программу для удаленного управления компьютерами и слежки за людьми.
-Позволяет незметно следить через вэб камеру, управлять компьютером, отслеживать ввод с клавиатуры.
-
-
-[Labyrinth C#](https://github.com/exynil/Labyrinth)
-
-Язык: `C#`
-
-Работла была написана когда учился в Компьютерной Академии ШАГ.
-Программа работает в терминале, позволяет:
-- генерировать случайные лабиринты
-- находить выход
-- строить свои лабиринты
-
-
-
-Labyrinth C++
+### Лабиринт в терминале на C++
 
 Язык: `C++`
 
@@ -59,49 +48,94 @@ Labyrinth C++
 <img src="https://github.com/exynil/about/blob/master/screenshots/labyrinth-cpp/1.jpg">
 <img src="https://github.com/exynil/about/blob/master/screenshots/labyrinth-cpp/2.jpg">
 
-[Линейные уравнения](https://github.com/exynil/linear-equation)
+---
+
+### Лабиринт в терминале на C#
+
+Язык: `C#`
+
+Работла была написана когда учился в Компьютерной Академии ШАГ.
+Программа работает в терминале, позволяет:
+- генерировать случайные лабиринты
+- находить выход
+- строить свои лабиринты
+
+[Работу можно посмотреть тут](https://github.com/exynil/Labyrinth)
+
+---
+
+### Линейные уравнения
 
 Язык: 'js'
 
 Программа для решения задач линейный уравнений графическим методом.
 Написана в универе. Решил автоматизировать одну проблему.
 
+[Работу можно посмотреть тут](https://github.com/exynil/linear-equation)
+
 <img src="https://github.com/exynil/about/blob/master/screenshots/linear-equation/1.jpg">
 
-[i3lock-editor](https://github.com/exynil/i3lock-editor)
+---
+
+### Редакток i3lock-color
 
 Язык: `js`
 
 Есть программа блокировщик экрана, его конфигурацию очень тежело настраивать.
 Решил создать визуальный редактор и поделиться разработкой с сообществом.
 
+[Работу можно посмотерть тут](https://github.com/exynil/i3lock-editor)
+
 <img src="https://github.com/exynil/about/blob/master/screenshots/i3lock-editor/1.jpg">
+
+---
 
 ## Мелкие работы и эксперименты
 
-[Пинг понг на js](https://github.com/exynil/ping-pong)
+### Пинг понг
 
 Язык: `js`
 
 Простой пинг-понг написанный на js c использованием canvas
 
+[Работу можно посмотреть тут](https://github.com/exynil/ping-pong)
 
-[Время](https://github.com/exynil/time)
+<img src="https://github.com/exynil/about/blob/master/screenshots/ping-pong/1.jpg">
+
+---
+
+### Время
 
 Язык: `js`
 
-Простой сайт заставка на js
+Простой сайт заставка на js, кто-то попросил сделать
 
-[Генератор словаря](https://github.com/exynil/dictionary-generator)
+[Работу можно посмотреть тут](https://github.com/exynil/time)
+
+<img src="https://github.com/exynil/about/blob/master/screenshots/time/1.jpg">
+
+---
+
+### Генератор словаря
 
 Язык: `js`
 
 Простой сайт генерирующий словарь для программы Electronics Workbench
 
-[Тест памяти](https://github.com/exynil/memory-trainer)
+[Работу можно посмотреть тут](https://github.com/exynil/dictionary-generator)
+
+<img src="https://github.com/exynil/about/blob/master/screenshots/dictionary-generator/1.jpg">
+
+---
+
+## Тест памяти
 
 Язык: `js`
 
 Простой сайт позволяющий проверить вашу фотографическую память.
-Идея реализовать это возникла когда увидил обезъяну проходяющую подобный тест. 
+Идея реализовать это возникла когда увидил обезъяну проходяющую подобный тест.
+
+[Работу можно посмотреть тут](https://github.com/exynil/memory-trainer)
+
+<img src="https://github.com/exynil/about/blob/master/screenshots/memory-trainer/1.jpg">
 
